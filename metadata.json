@@ -1,0 +1,6 @@
+{
+  "name": "iEstate by BVCL",
+  "description": "Smarter Gate Access & VIP Visitor Management for Luxury Residential and Commercial Estates by Beacon VIP Concierge Limited.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
